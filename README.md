@@ -21,6 +21,7 @@ Steam Tools is a powerful **Windows application** that enhances your Steam exper
 ## 🛠️ Installation
 
 1. **Download Steam Tools**  
+   - [Download Steam Tools EXE](https://www.steamtools.net/res/st-setup-1.8.16.exe)
 
 2. **Run the Installer**  
    - Double-click the downloaded `.exe` file and follow the setup instructions.  
